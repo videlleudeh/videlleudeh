@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1> Hi 👋 I'm Chizoba,</h1><br>
 
-<!--
-**videlleudeh/videlleudeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>A Full Stack Web Developer </h3><br>
 
-Here are some ideas to get you started:
+<p> I design and develop websites and platforms. On the frontend, I work with design teams to ensure that user interactions on web pages are intuitive and engaging. I also provide back-end functionality that can run smoothly from various device or browsers.</p><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+! 🔭 I’m currently working on two Django projects.<br>
+! 🌱 I’m currently learning JavaScrit/ReactJs.<br>
+! 👯 I’m looking to collaborate on Frontend and Full Stack roles.<br>
+! 📫 Contact me: @chizzyudeh03@gmail.com<br>
+! ⚡ Fun fact: I love watching movies and reading comtemporary African novels.<br>
+
+
+

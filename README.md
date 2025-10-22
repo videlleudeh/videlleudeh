@@ -2,9 +2,9 @@
 
 <h3>Mobile App Developer </h3><br>
 
-<p> I design and develop websites and platforms. On the frontend, I work with design teams to ensure that user interactions on web pages are intuitive and engaging. I also provide back-end functionality that can run smoothly from various device or browsers.</p><br>
+<p> I design and develop mobile apps. </p><br>
 
-! 🔭 I’m currently working a Marketplace app.<br>
+! 🔭 I’m currently working an e-commerce app.<br>
 ! 🌱 I’m currently learning Flutter Development (Dart).<br>
 ! 👯 I’m looking to collaborate on App development projects.<br>
 ! 📫 Contact me: @chizzyudeh03@gmail.com<br>
@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/chizoba-udechukwu-58655318a/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://twitter.com/not_videlle"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/></a>
+  <a href="https://twitter.com/penne_xx"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/></a>
   <!-- <a href=""><img src="" title="Instagram" alt="Instagram" width="40" height="40"/></a> -->
 </div>
 
